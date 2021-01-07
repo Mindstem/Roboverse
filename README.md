@@ -1,1 +1,1 @@
-# MindSTEM: STEM Learning through LEGO Mindstorms
+# Mindstem
