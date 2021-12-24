@@ -10,10 +10,10 @@ requires-python = '>= 3.10, < 4'
 license = {file = 'LICENSE'}
 
 authors = [
-  {name = 'The Vinh LUONG (LƯƠNG Thế Vinh)', email = 'Vinh@STEAMforVietNam.org'}
+  {name = 'The Vinh LUONG (LƯƠNG Thế Vinh)', email = 'TheVinhLuong@gmail.com'}
 ]
 maintainers = [
-  {name = 'The Vinh LUONG (LƯƠNG Thế Vinh)', email = 'Vinh@STEAMforVietNam.org'}
+  {name = 'The Vinh LUONG (LƯƠNG Thế Vinh)', email = 'TheVinhLuong@gmail.com'}
 ]
 
 keywords = [
@@ -126,7 +126,7 @@ test = [
 
 [build-system]
 requires = [
-  'SetUpTools >= 59.6.0',
-  'Wheel >= 0.37.0'
+  'SetUpTools >= 60.1.0',
+  'Wheel >= 0.37.1',
 ]
 build-backend = 'setuptools.build_meta'
